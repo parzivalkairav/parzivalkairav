@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @parzivalkairav
-- 👀 I’m interested in full stack development, machine learning, deep learning, blockchain development, core programming.
-- 🌱 I’m currently learning blockchain development, web3, DevOps, cybersecurity.
-- 💞️ I’m looking to collaborate on full stack development projects and web3.
+- 👋 Hi, I’m Kairav Thakkar
+- 👀 I’m skilled in full stack development, machine learning, network computing, blockchain development, and core programming.
+- 🌱 Currently exploring blockchain concepts and advance cryptocurrency aspects.
+- 💞️ Willing to work on blockchain projects and large-scale web3 integrations.
+- 👍 Got any other paradigm that you want me to explore, do let me know.
 - 📫 How to reach me: Twitter:<a href="https://twitter.com/kairavweb3">@kairavweb3</a>
 
 <!---
