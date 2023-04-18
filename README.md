@@ -3,7 +3,7 @@
 - 🌱 Currently exploring blockchain concepts and advanced cryptocurrency aspects.
 - 💞️ Willing to work on blockchain projects, nlp projects, computer vision projects, and large-scale web3 integration.
 - 👍 Got any other paradigm that you want me to explore, do let me know.
-- 📫 Contact Me: Twitter:<a href="https://twitter.com/kairavweb3">@kairavweb3</a>  --->
+- 📫 Contact Me: <a href="https://twitter.com/kairavweb3">https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white</a>  
 
 <!---
 parzivalkairav/parzivalkairav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
