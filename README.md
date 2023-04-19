@@ -3,7 +3,7 @@
 
 <ul>
   <li><b>👤 Name: </b> Kairav Thakkar</li>
-  <li><b>🕸️ Location:</b> Remote/Kepler 452B</li>
+  <li><b>🕸️ Location:</b> Remote/Kepler 453B</li>
   <li><b>💼 Job: </b>Blockchain Freelancer</li>
   <li><b>🧠 Languages:</b> English | Gujarat | Hindi | French</li>
 </ul>
