@@ -12,7 +12,7 @@ An adept full stack and blockchain developer, I firmly believe in the vision of 
 <br/>
 In the field of web3, I believe that smart contract security and Defi management will be crucial in developing scalable solutions. As we move forward towards the awakening of AI and metaverse, updating the knowledge base and skillset is extremely necessary.
 <!---📫 Contact Me: --->
-<h2>:link: Get in Touch💬 </h2>
+<h2>:link: Thou Shalt Collaborate💬 </h2>
 <p align="center"><a href="https://twitter.com/kairavweb3"><img src="https://img.shields.io/badge/kairavweb3%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"></a><!---<a href="https://twitter.com/kairavweb3">	![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>--->&nbsp&nbsp
 <a href="https://web3kairav.hashnode.dev/"><img src="https://img.shields.io/badge/devkairav-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Blog"></a>&nbsp&nbsp
 <a href="https://www.linkedin.com/in/kairavthakkar/"><img src="https://img.shields.io/badge/Kairav Thakkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a></p>
