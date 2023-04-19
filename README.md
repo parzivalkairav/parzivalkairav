@@ -7,7 +7,7 @@
   <li><b>💼 Job: </b>Blockchain Freelancer</li>
   <li><b>🧠 Languages:</b> English | Gujarat | Hindi | French</li>
 </ul>
-An adept full stack and blockchain developer, I firmly believe in the vision of Web3 and decentralization. Curious about GANS, I am currently exploring the field of GAI and tools along with developing extensively in the blockchain paradigm. I admire the architecture of 
+An adept full stack and blockchain developer, I firmly believe in the vision of Web3 and decentralization. Curious about GANS, I am currently exploring the field of GAI and tools along with developing extensively in the blockchain paradigm. I admire the architecture of Twittter, NetFlix, and Discord. My favorite startup stories are those of Bolt, NetFlix, AirBnB, Uber, and Zoho. 
 <!---📫 Contact Me: --->
 <h2>:link: Get in Touch💬 </h2>
 <p align="center"><a href="https://twitter.com/kairavweb3"><img src="https://img.shields.io/badge/kairavweb3%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"></a><!---<a href="https://twitter.com/kairavweb3">	![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>--->&nbsp&nbsp
