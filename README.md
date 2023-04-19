@@ -1,3 +1,6 @@
+
+<h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
+
 - 👋 Hi, I’m Kairav Thakkar
 - 👀 I’m skilled in full stack development, machine learning, network computing, blockchain development, and core programming.
 - 🌱 Currently exploring blockchain concepts and advanced cryptocurrency aspects.
