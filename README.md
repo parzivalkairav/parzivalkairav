@@ -11,7 +11,7 @@
 An adept full stack and blockchain developer, I firmly believe in the vision of Web3 and decentralization. Curious about GANS, I am currently exploring the field of GAI and tools associated with AI extensively while consistently contributing in the blockchain paradigm. I admire the architecture of Twittter, NetFlix, and Discord. My favorite startup stories are the creation of Bolt, NetFlix, AirBnB, Uber, and Zoho. 
 <br/>
 In the field of web3, I believe that smart contract security and Defi management will be crucial in developing scalable solutions. As we move forward towards the awakening of AI and metaverse, updating the knowledge base and skillset is extremely necessary.
-<h2><img src="https://gfycat.com/measlyconcreteboa-intelligent-ostrich-atrabilis-sticker" alt="computer" width="80"> I'm currently ...</h2>
+<h2><img src="https://gfycat.com/acceptabledarkhorseshoecrab" alt="computer" width="80"> I'm currently ...</h2>
 
 <!---📫 Contact Me: --->
 <h2>:link: Thou Shalt Collaborate💬 </h2>
