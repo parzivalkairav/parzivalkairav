@@ -11,7 +11,8 @@ An adept full stack and blockchain developer, I firmly believe in the vision of 
 <!---📫 Contact Me: --->
 <h2>:link: Get in Touch💬 </h2>
 <br/>Twitter:<a href="https://twitter.com/kairavweb3"><img src="https://img.shields.io/badge/kairavweb3%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"></a><!---<a href="https://twitter.com/kairavweb3">	![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>--->  
-
+<br/>Hashnode:<a href="https://devkairav.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Blog"></a>
+<br/>LinkedIn:<a href="https://twitter.com/kairavweb3"><img src="https://img.shields.io/badge/kairavweb3%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"></a>
 <!---
 parzivalkairav/parzivalkairav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
