@@ -20,8 +20,16 @@ In the field of web3, I believe that smart contract security and Defi management
   <li>Passionate about exploring the latest AI tools and technologies, such as GPT-3, MidJourney, and Stable DIffusion, and using them to solve real-world problems.</li>
   <li>Researching layer-1 and layer-2 solutions in blockchain technology.</li>
   <li>Maintaining blogs on DevOps,Web3, and reviewing the books that I read.</li>
-  <li>Upskilling myself to become a better developer in the field of blockchain development and DevOps efficiency.</li>
+  <li>Reading and reviewing Life 3.0.</li>
   <li>Completing my DevOps online PGP program and reading "The Hard Things about Hard Things" by Ben Horowitz.</li>
+</ul>
+<h2><img src="https://github.com/parzivalkairav/my_hist_private/blob/main/time_machine.jpeg" alt="computer" width="80">Ambitions, Priorities, and Future Prospects</h2>
+<ul>
+  <li>Vision include creation of digital assets and improve the technology required to transition from web2 to web3.</li>
+  <li>Upskilling in Prompt Engineering, Solidity, and Generative AI.</li>
+  <li>Upskilling myself to become a better developer in the field of blockchain development and DevOps efficiency.</li>
+  <li>Integrating full stack components to create a useful software for web3 development.</li>
+  <li>SAAS appications of Generative AI and blockchain technology.</li>
 </ul>
  
 
