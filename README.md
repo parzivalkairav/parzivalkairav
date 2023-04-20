@@ -1,7 +1,11 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&center=true&vCenter=true&lines=Any+sufficiently+advanced+technology+is+indistinguishable+from+magic" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&center=true&vCenter=true&lines=Any+sufficiently+advanced+technology+is+indistinguishable+from+magic" alt="Typing SVG" /></a></p>
 
 <div>
-  <img src="https://github.com/parzivalkairav/my_hist_private/blob/main/github_banner.png" alt="Personal Banner">
+  
+  <img src="https://github.com/parzivalkairav/my_hist_private/blob/main/github_banner.PNG" alt="Personal Banner">
+
 </div>
 
 <h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
@@ -15,7 +19,7 @@
 An adept full stack and blockchain developer, I firmly believe in the vision of Web3 and decentralization. Curious about GANS, I am currently exploring the field of GAI and tools associated with AI extensively while consistently contributing in the blockchain paradigm. I admire the architecture of Twittter, NetFlix, and Discord. My favorite startup stories are the creation of Bolt, NetFlix, AirBnB, Uber, and Zoho. 
 <br/><br/>
 In the field of web3, I believe that smart contract security and Defi management will be crucial in developing scalable solutions. As we move forward towards the awakening of AI and metaverse, updating the knowledge base and skillset is extremely necessary.
-<h2><img src="https://github.com/parzivalkairav/my_hist_private/blob/main/time_machine.jpeg" alt="computer" width="80"> Currently:</h2>
+<h2><img src="https://github.com/parzivalkairav/my_hist_private/blob/main/time_machine.JPEG" alt="computer" width="80"> Currently:</h2>
 <ul>
   <li>Passionate about exploring the latest AI tools and technologies, such as GPT-3, MidJourney, and Stable DIffusion, and using them to solve real-world problems.</li>
   <li>Researching layer-1 and layer-2 solutions in blockchain technology.</li>
@@ -23,7 +27,7 @@ In the field of web3, I believe that smart contract security and Defi management
   <li>Reading and reviewing Life 3.0.</li>
   <li>Completing my DevOps online PGP program and reading "The Hard Things about Hard Things" by Ben Horowitz.</li>
 </ul>
-<h2><img src="https://github.com/parzivalkairav/my_hist_private/blob/main/image_online.png" alt="computer" width="80"> Ambitions, Priorities, and Future Prospects</h2>
+<h2><img src="https://github.com/parzivalkairav/my_hist_private/blob/main/image_online.PNG" alt="computer" width="80"> Ambitions, Priorities, and Future Prospects</h2>
 <ul>
   <li>Vision include creation of digital assets and improve the technology required to transition from web2 to web3.</li>
   <li>Upskilling in Prompt Engineering, Solidity, and Generative AI.</li>
