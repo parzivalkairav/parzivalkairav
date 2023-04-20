@@ -12,6 +12,9 @@ An adept full stack and blockchain developer, I firmly believe in the vision of 
 <br/><br/>
 In the field of web3, I believe that smart contract security and Defi management will be crucial in developing scalable solutions. As we move forward towards the awakening of AI and metaverse, updating the knowledge base and skillset is extremely necessary.
 <h2><img src="https://github.com/parzivalkairav/my_hist_private/blob/main/time_machine.jpeg" alt="computer" width="80"> Currently:</h2> 
+
+<ul>
+  <li>
     
 <!---📫 Contact Me: --->
 <h2>:link: Thou Shalt Collaborate💬 </h2>
