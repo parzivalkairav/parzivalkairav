@@ -3,6 +3,7 @@
 <div>
   <img src="https://github.com/parzivalkairav/my_hist_private/blob/main/github_banner.png" alt="Personal Banner">
 </div>
+
 <h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
 
 <ul>
@@ -14,8 +15,15 @@
 An adept full stack and blockchain developer, I firmly believe in the vision of Web3 and decentralization. Curious about GANS, I am currently exploring the field of GAI and tools associated with AI extensively while consistently contributing in the blockchain paradigm. I admire the architecture of Twittter, NetFlix, and Discord. My favorite startup stories are the creation of Bolt, NetFlix, AirBnB, Uber, and Zoho. 
 <br/><br/>
 In the field of web3, I believe that smart contract security and Defi management will be crucial in developing scalable solutions. As we move forward towards the awakening of AI and metaverse, updating the knowledge base and skillset is extremely necessary.
-<h2><img src="https://github.com/parzivalkairav/my_hist_private/blob/main/time_machine.jpeg" alt="computer" width="80"> Currently:</h2> 
-
+<h2><img src="https://github.com/parzivalkairav/my_hist_private/blob/main/time_machine.jpeg" alt="computer" width="80"> Currently:</h2>
+<ul>
+  <li>Passionate about exploring the latest AI tools and technologies, such as GPT-3, MidJourney, and Stable DIffusion, and using them to solve real-world problems.</li>
+  <li>Researching layer-1 and layer-2 solutions in blockchain technology.</li>
+  <li>Maintaining blogs on DevOps,Web3, and reviewing the books that I read.</li>
+  <li>Upskilling myself to become a better developer in the field of blockchain development and DevOps efficiency.</li>
+  <li>Completing my DevOps online PGP program and reading the hard things about hard things by Ben Horowitz.</li>
+</ul>
+ 
 
     
 <!---📫 Contact Me: --->
