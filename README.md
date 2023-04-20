@@ -23,7 +23,7 @@ In the field of web3, I believe that smart contract security and Defi management
   <li>Reading and reviewing Life 3.0.</li>
   <li>Completing my DevOps online PGP program and reading "The Hard Things about Hard Things" by Ben Horowitz.</li>
 </ul>
-<h2><img src="https://github.com/parzivalkairav/my_hist_private/blob/main/image_online.png" alt="computer" width="80">Ambitions, Priorities, and Future Prospects</h2>
+<h2><img src="https://github.com/parzivalkairav/my_hist_private/blob/main/image_online.png" alt="computer" width="80"> Ambitions, Priorities, and Future Prospects</h2>
 <ul>
   <li>Vision include creation of digital assets and improve the technology required to transition from web2 to web3.</li>
   <li>Upskilling in Prompt Engineering, Solidity, and Generative AI.</li>
