@@ -29,7 +29,7 @@ In the field of web3, I believe that smart contract security and Defi management
   <li>Upskilling in Prompt Engineering, Solidity, and Generative AI.</li>
   <li>Upskilling myself to become a better developer in the field of blockchain development and DevOps efficiency.</li>
   <li>Integrating full stack components to create a useful software for web3 development.</li>
-  <li>SAAS appications of Generative AI and blockchain technology.</li>
+  <li>SAAS applications culminating Generative AI and blockchain technology.</li>
 </ul>
  
 
