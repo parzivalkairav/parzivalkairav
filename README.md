@@ -1,8 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&center=true&vCenter=true&lines=Any+sufficiently+advanced+technology+is+indistinguishable+from+magic" alt="Typing SVG" /></a></p>
 
 <div>
-  <img src="https://github.com/parzivalkairav/my_hist_private/blob/main/twitter_banner.png">
-
+  <img src="https://github.com/parzivalkairav/my_hist_private/blob/main/github_banner.png" alt="Personal Banner">
+</div>
 <h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
 
 <ul>
