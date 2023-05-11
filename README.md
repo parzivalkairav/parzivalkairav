@@ -1,9 +1,9 @@
 <a href="https://git.io/typing-svg">
-  <p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&center=true&vCenter=true&lines=Any+sufficiently+advanced+technology+is+indistinguishable+from+magic" alt="Typing SVG" /></a></p>
+  <p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&center=true&vCenter=true&lines=Any+sufficiently+advanced+technology+is+indistinguishable+from+magic" alt="Typing SVG here" /></a></p>
 
 <div>
   
-  <img src="https://github.com/parzivalkairav/Images-used-/blob/main/github_banner.png" alt="Personal Banner">
+  <img src="https://github.com/parzivalkairav/Images-used-/blob/main/github_banner.png" alt="Personal Banner" />
 
 </div>
 
