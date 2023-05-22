@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg">
   <p><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1000&center=true&vCenter=true&lines=Any+sufficiently+advanced+technology+is+indistinguishable+from+magic" alt="Typing SVG here" /></a></p>
 
-<div><img src="https://github.com/parzivalkairav/Images-used-/blob/main/github_banner.png" alt="Personal Banner" /></div>
+<div><img src="https://drive.google.com/file/d/1ZNnvCe_R82LDp01VpghzpJrcAeuRbx95/view" alt="Personal Banner" /></div>
 
 <h2><img src="https://thumbs.gfycat.com/AcrobaticMatureGazelle.webp" alt="computer" width="80"> About me </h2>
 
