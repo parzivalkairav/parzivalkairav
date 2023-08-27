@@ -20,7 +20,7 @@ In the field of web3, I believe that smart contract security and Defi management
   <li>Researching layer-1 and layer-2 solutions in blockchain technology.</li>
   <li>Maintaining blogs on DevOps,Web3, and reviewing the books that I read.</li>
   <li>Reading and reviewing Life 3.0.</li>
-  <li>Completing my DevOps online PGP program and reading "The Hard Things about Hard Things" by Ben Horowitz.</li>
+  <li>Learning about Data Science and analytics through WorldQuant University Practical Bootcamp and eyeing the upcoming cohort of Msc in Financial Engineering.</li>
 </ul>
 <h2><img src="https://github.com/parzivalkairav/Images-used-/blob/main/image_online.png" alt="computer" width="80"> Ambitions, Priorities, and Future Prospects</h2>
 <ul>
