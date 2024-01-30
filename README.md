@@ -21,7 +21,7 @@ In the field of web3, I believe that smart contract security and Defi management
   <li>Passionate about exploring the latest AI tools and technologies, such as GPT-3, MidJourney, and Stable DIffusion, and using them to solve real-world problems.</li>
   <li>Researching layer-1 and layer-2 solutions in blockchain technology.</li>
   <li>Maintaining blogs on DevOps, and Generative AI.</li>
-  <li>Reading and reviewing The Alchemist by Paulo Coelho.</li>
+  <li>Reading and reviewing Life 3.0 by Max Tegmark.</li>
   <li>Learning about Data Science and analytics through WorldQuant University Practical Bootcamp and eyeing the upcoming cohort of Msc in Financial Engineering.</li>
 </ul>
 <h2><img src="https://github.com/parzivalkairav/Images-used-/blob/main/image_online.png" alt="computer" width="80"> Ambitions, Priorities, and Future Prospects</h2>
