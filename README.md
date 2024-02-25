@@ -10,17 +10,17 @@
 <ul>
   <li><b>👤 Name: </b> Kairav Thakkar</li>
   <li><b>🕸️ Location:</b> Remote/Kepler 453B</li>
-  <li><b>💼 Job: </b>Blockchain Researcher and Developer</li>
+  <li><b>💼 Job: </b>AI Prompt Engineer</li>
   <li><b>🧠 Languages:</b> English | Hindi | Gujarati | French</li>
 </ul>
-An adept full stack and blockchain developer, I firmly believe in the vision of Web3 and decentralization. Curious about GANS, I am currently exploring the field of GAI and tools associated with AI extensively while consistently contributing in the blockchain paradigm. I admire the architecture of Twittter, NetFlix, and Discord. My favorite startup stories are the creation of Bolt, NetFlix, AirBnB, Uber, and Zoho. 
+An adept AI prompt engineer and blockchain developer, I firmly believe in the vision of Web3 and decentralization. Curious about GANS, I am currently exploring the field of GAI and tools associated with AI extensively while consistently contributing in the blockchain paradigm. I admire the architecture of Twittter, NetFlix, and Discord. My favorite startup stories are the creation of Bolt, NetFlix, AirBnB, Uber, and Zoho. 
 <br/><br/>
 In the field of web3, I believe that smart contract security and Defi management will be crucial in developing scalable solutions. As we move forward towards the awakening of AI and metaverse, updating the knowledge base and skillset is extremely necessary.
 <h2><img src="https://github.com/parzivalkairav/Images-used-/blob/main/time_machine.jpeg" alt="computer" width="80"> Currently:</h2>
 <ul>
-  <li>Passionate about exploring the latest AI tools and technologies, such as GPT-3, MidJourney, and Stable DIffusion, and using them to solve real-world problems.</li>
+  <li>Passionate about exploring the latest AI tools and technologies, such as GPT, MidJourney, and Stable DIffusion, and using them to solve real-world problems.</li>
   <li>Researching layer-1 and layer-2 solutions in blockchain technology.</li>
-  <li>Maintaining blogs on DevOps, and Generative AI.</li>
+  <li>Maintaining blogs on Web3 and Generative AI.</li>
   <li>Reading and reviewing Life 3.0 by Max Tegmark.</li>
   <li>Learning about Data Science and analytics through WorldQuant University Practical Bootcamp and eyeing the upcoming cohort of Msc in Financial Engineering.</li>
 </ul>
