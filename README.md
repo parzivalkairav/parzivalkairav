@@ -10,7 +10,7 @@
 <ul>
   <li><b>👤 Name: </b> Kairav Thakkar</li>
   <li><b>🕸️ Location:</b> Remote/Kepler 453B</li>
-  <li><b>💼 Job: </b>AI Prompt Engineer</li>
+  <li><b>💼 Job: </b>Product Manager</li>
   <li><b>🧠 Languages:</b> English | Hindi | Gujarati | French</li>
 </ul>
 An adept AI prompt engineer and blockchain developer, I firmly believe in the vision of Web3 and decentralization. Curious about GANS, I am currently exploring the field of GAI and tools associated with AI extensively while consistently contributing in the blockchain paradigm. I admire the architecture of Twittter, NetFlix, and Discord. My favorite startup stories are the creation of Bolt, NetFlix, AirBnB, Uber, and Zoho. 
