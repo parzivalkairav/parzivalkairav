@@ -15,7 +15,6 @@
 </ul>
 As a web3 data analyst, I firmly believe in the vision of Web3 and blockchain technology. I admire the architecture of Twitter, NetFlix, and Discord. My favorite startup stories are the creation of Bolt, NetFlix, AirBnB, Uber, and Zoho. 
 <br/><br/>
-Currel
 <h2><img src="https://github.com/parzivalkairav/Images-used-/blob/main/time_machine.jpeg" alt="computer" width="80"> Currently:</h2>
 <ul>
   <li>Passionate about blockchain data analysis. Learning about Dune and Flipside Crypto</li>
