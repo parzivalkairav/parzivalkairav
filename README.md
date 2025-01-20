@@ -36,8 +36,6 @@ As a web3 data analyst, I firmly believe in the vision of Web3 and blockchain te
     
 <!---📫 Contact Me: --->
 <h2 align="left">:link: Thou Shalt Collaborate💬 </h2>
-<p align="center"><a href="https://twitter.com/kairavweb3"><img src="https://img.shields.io/badge/kairavweb3%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"></a><!---<a href="https://twitter.com/kairavweb3">	![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>--->&nbsp&nbsp
-<a href="https://web3kairav.hashnode.dev/"><img src="https://img.shields.io/badge/devkairav-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Blog"></a>&nbsp&nbsp
 <a href="https://www.linkedin.com/in/kairavthakkar/"><img src="https://img.shields.io/badge/Kairav Thakkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a></p>
 <!---
 parzivalkairav/parzivalkairav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
